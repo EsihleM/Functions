@@ -19,7 +19,7 @@ Usage
 3. Open a terminal and navigate to the directory containing practice.py.
 4. Run the script using the command:
    ```bash
-   python practice.py
+   python3 functions.py
    ```
 5. Follow the prompts to enter the original price and discount percentage.
 
